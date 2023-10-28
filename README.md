@@ -47,9 +47,22 @@ npm instal -D nodemon
 npm run dev
 
 ```
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/hordtramon/api-cubos-bank/assets/133041729/1cee82d3-149a-4752-9469-2a32f0128ee3" alt="" style="width: 100%; height: auto;">
+      <div style="text-align: center;">Funcionalidades no Insomnia</div>
+    </td>
+    <td>
+      <img src="https://github.com/hordtramon/api-cubos-bank/assets/133041729/b40fdae8-2e64-4aaf-9cdc-713738ad6dc3" alt="" style="width: 100%; height: auto;">
+      <div style="text-align: center;">Organização das pastas</div>
+    </td>
+  </tr>
+</table>
+
+
 
 ## :sassy_man: Endpoints
-
 - GET /contas - Lista todos as contas
 - POST /contas - Cria uma nova conta
 - PUT /contas/:numeroConta/usuario - Atualiza os dados da conta
@@ -62,6 +75,7 @@ npm run dev
 - GET /contas/registros/transferencias - Detalha as informações sobre uma transferência
 - GET /contas/saldo - Mostra o saldo em conta
 - GET /contas/extrato - Mostra o extrato da conta
+  
 
 ## :technologist: Contribuidores
 
