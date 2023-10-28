@@ -32,7 +32,7 @@ Essa foi a primeira API que criei para o desafio do módulo 2 do curso de progra
 ## :computer: Rodando o Projeto
 
 ```shell
-# 1. Clone o projeto
+# 1. Clone o projeto colocando o seguinte link no seu terminal
 
 git clone git@github.com:hordtramon/api-cubos-bank.git
 
