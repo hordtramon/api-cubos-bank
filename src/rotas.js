@@ -1,6 +1,6 @@
 const express = require('express');
 
-const { intermediarios, intermediarioDeConsulta } = require('./controladores/intermediarios');
+const { intermediarios, intermediarioDeConsulta } = require('./intermediarios/intermediarios');
 const clientes = require('./controladores/clientes');
 const rotas = express();
 
