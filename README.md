@@ -38,9 +38,7 @@ git clone git@github.com:hordtramon/api-cubos-bank.git
 
 # 2. Instale as dependências
 
-npm install express
-
-npm instal -D nodemon
+npm install
 
 # 3. Execute o projeto
 
